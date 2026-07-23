@@ -1,0 +1,969 @@
+,EventTime,Origin,Destination
+0,1944.32715,UNKNOWN,EasternEurope
+1,2003.03833,EasternEurope,Western Europe
+2,1994.03832,EasternEurope,NorthAmerica
+3,2003.03832,EasternEurope,Western Europe
+4,2008.0382100000002,EasternEurope,Western Europe
+5,2007.03833,EasternEurope,Western Europe
+6,2000.0382200000001,EasternEurope,Western Europe
+7,2010.03833,EasternEurope,Asia
+8,2011.03832,EasternEurope,Asia
+9,2012.0382100000002,EasternEurope,Western Europe
+10,2007.03834,EasternEurope,Western Europe
+11,2003.03834,EasternEurope,Western Europe
+12,2007.03833,EasternEurope,Western Europe
+13,2007.03833,EasternEurope,Western Europe
+14,2004.7881100000002,EasternEurope,Western Europe
+15,2009.03833,EasternEurope,Western Europe
+16,2010.03833,EasternEurope,Asia
+17,2007.03832,EasternEurope,Western Europe
+18,2007.03832,EasternEurope,NorthAmerica
+19,2018.03833,EasternEurope,Asia
+20,2011.03832,EasternEurope,Western Europe
+21,2009.03832,EasternEurope,Western Europe
+22,2013.03832,EasternEurope,Western Europe
+23,2011.03833,EasternEurope,Asia
+24,1999.7836100000002,EasternEurope,Western Europe
+25,2008.0382200000001,EasternEurope,Western Europe
+26,1994.7318300000002,EasternEurope,Western Europe
+27,2003.03833,EasternEurope,Western Europe
+28,2007.03834,EasternEurope,Western Europe
+29,2015.03834,EasternEurope,Asia
+30,2015.03834,EasternEurope,Western Europe
+31,2007.27185,EasternEurope,Western Europe
+32,2015.03834,EasternEurope,Western Europe
+33,2017.03834,EasternEurope,Asia
+34,2017.03833,EasternEurope,Asia
+35,2015.03834,EasternEurope,Western Europe
+36,2011.564,EasternEurope,Western Europe
+37,2017.03833,EasternEurope,Asia
+38,2013.03834,EasternEurope,Western Europe
+39,2015.03834,EasternEurope,Western Europe
+40,2018.03834,EasternEurope,Asia
+41,1996.0382200000001,EasternEurope,Western Europe
+42,2009.03833,EasternEurope,Western Europe
+43,2016.03823,EasternEurope,Western Europe
+44,2016.0382200000001,EasternEurope,Western Europe
+45,2003.0653100000002,EasternEurope,Asia
+46,2012.0382200000001,Asia,EasternEurope
+47,1999.40352,EasternEurope,Western Europe
+48,2012.03823,Western Europe,EasternEurope
+49,2012.03823,Western Europe,EasternEurope
+50,2004.03823,EasternEurope,Western Europe
+51,2013.03832,EasternEurope,Western Europe
+52,2018.03832,EasternEurope,Asia
+53,2015.03833,EasternEurope,Asia
+54,2010.03833,EasternEurope,NorthAmerica
+55,1978.72278,EasternEurope,Asia
+56,2011.03833,EasternEurope,Western Europe
+57,2014.03832,EasternEurope,Asia
+58,2010.03832,EasternEurope,Western Europe
+59,2007.03832,EasternEurope,Western Europe
+60,2005.03832,EasternEurope,Western Europe
+61,2008.0382200000001,EasternEurope,Asia
+62,2000.6792400000002,EasternEurope,Western Europe
+63,2003.03834,EasternEurope,Western Europe
+64,2003.03834,EasternEurope,Western Europe
+65,1960.47736,EasternEurope,Africa
+66,2004.21971,Africa,Western Europe
+67,2003.03833,Africa,Western Europe
+68,2013.03833,Africa,Western Europe
+69,2012.0382200000001,Africa,Asia
+70,1982.03366,Africa,CentralAmerica
+71,2017.03833,Africa,NortheastBrazil
+72,1994.7418,Africa,SouthBrazil
+73,2002.88469,SouthBrazil,SoutheastBrazil
+74,2002.03833,Africa,Western Europe
+75,2010.03833,Africa,Asia
+76,2010.03832,Africa,CentralAmerica
+77,2013.03832,Africa,Western Europe
+78,2015.03832,Africa,Bahia
+79,2007.03833,Africa,NorthAmerica
+80,2006.03832,Africa,Western Europe
+81,2004.0382100000002,Africa,Western Europe
+82,2014.03833,EasternEurope,Asia
+83,2012.0382200000001,EasternEurope,Asia
+84,2013.03833,EasternEurope,Western Europe
+85,2010.03833,EasternEurope,Asia
+86,1992.7630100000001,EasternEurope,Western Europe
+87,2012.03823,EasternEurope,Asia
+88,2014.03834,EasternEurope,Western Europe
+89,2011.03834,EasternEurope,Western Europe
+90,2013.03834,EasternEurope,Oceania
+91,2016.03824,EasternEurope,Western Europe
+92,2004.0297400000002,EasternEurope,Western Europe
+93,2011.5643300000002,Western Europe,Asia
+94,2014.03833,EasternEurope,Western Europe
+95,2006.03833,EasternEurope,Western Europe
+96,2014.20585,EasternEurope,Asia
+97,2013.03834,EasternEurope,Western Europe
+98,2006.03834,EasternEurope,Western Europe
+99,2002.50604,EasternEurope,Western Europe
+100,2012.03823,EasternEurope,Western Europe
+101,1993.1728500000002,EasternEurope,Western Europe
+102,2012.03823,Western Europe,EasternEurope
+103,2011.03835,Western Europe,EasternEurope
+104,2012.03823,Western Europe,EasternEurope
+105,2008.03823,Western Europe,EasternEurope
+106,2001.1521200000002,Western Europe,EasternEurope
+107,2014.03834,EasternEurope,Western Europe
+108,2015.03834,EasternEurope,Western Europe
+109,2013.98128,EasternEurope,Western Europe
+110,2014.03833,EasternEurope,Western Europe
+111,2015.03833,EasternEurope,Western Europe
+112,2015.03833,EasternEurope,Western Europe
+113,2012.37532,EasternEurope,Western Europe
+114,2010.03833,EasternEurope,Oceania
+115,2003.7373400000001,EasternEurope,Western Europe
+116,1958.09227,EasternEurope,Africa
+117,1979.9644700000001,Africa,CentralAmerica
+118,2017.03833,Africa,Bahia
+119,2003.03833,Africa,Western Europe
+120,1999.03833,Africa,Western Europe
+121,2015.03834,Africa,Asia
+122,2016.03823,Africa,SouthAmerica
+123,2003.03833,Africa,Western Europe
+124,2009.03833,Africa,Western Europe
+125,2012.0382200000001,Africa,Western Europe
+126,2005.03833,Africa,Western Europe
+127,2005.03833,Africa,Western Europe
+128,2006.03833,Africa,Asia
+129,1976.81877,Africa,EasternEurope
+130,1995.20604,Africa,CentralAmerica
+131,2002.03834,Africa,Western Europe
+132,2007.03834,Africa,Asia
+133,2010.23646,Africa,Western Europe
+134,1981.46601,Africa,Western Europe
+135,1996.03824,Western Europe,North America
+136,2007.03835,Western Europe,SouthAmerica
+137,1959.18469,Africa,SoutheastBrazil
+138,2017.03833,SoutheastBrazil,SouthBrazil
+139,2015.03834,SoutheastBrazil,Western Europe
+140,1998.03834,SoutheastBrazil,Western Europe
+141,2015.03835,SoutheastBrazil,SouthBrazil
+142,2016.0382200000001,SoutheastBrazil,NortheastBrazil
+143,2016.03823,SoutheastBrazil,SouthBrazil
+144,2017.03834,SoutheastBrazil,MidwestBrazil
+145,1997.7881300000001,SoutheastBrazil,Bahia
+146,2018.03833,SoutheastBrazil,Western Europe
+147,2013.03834,SoutheastBrazil,Western Europe
+148,2008.03823,SoutheastBrazil,Asia
+149,1972.3729500000002,SoutheastBrazil,MidwestBrazil
+150,2015.03834,MidwestBrazil,SoutheastBrazil
+151,2015.03834,MidwestBrazil,NorthBrazil
+152,2015.03834,MidwestBrazil,NorthBrazil
+153,2016.03823,MidwestBrazil,NortheastBrazil
+154,2017.03834,MidwestBrazil,NorthBrazil
+155,1975.68595,SoutheastBrazil,SouthBrazil
+156,2004.9370000000001,SouthBrazil,MidwestBrazil
+157,2017.03833,SouthBrazil,SoutheastBrazil
+158,2014.03833,SouthBrazil,SoutheastBrazil
+159,1995.1369300000001,SouthBrazil,NortheastBrazil
+160,2017.03833,NortheastBrazil,MidwestBrazil
+161,2017.03834,SoutheastBrazil,SouthBrazil
+162,2002.16301,SoutheastBrazil,MidwestBrazil
+163,1981.21558,SoutheastBrazil,SouthBrazil
+164,2015.03834,SouthBrazil,SoutheastBrazil
+165,2016.03823,SouthBrazil,NorthBrazil
+166,2016.03823,SouthBrazil,NorthBrazil
+167,1970.1502300000002,SoutheastBrazil,SouthBrazil
+168,1987.75629,SouthBrazil,SoutheastBrazil
+169,2003.03834,SoutheastBrazil,Western Europe
+170,2016.03823,SoutheastBrazil,SouthBrazil
+171,2017.03834,SoutheastBrazil,MidwestBrazil
+172,1970.48799,SoutheastBrazil,NorthBrazil
+173,2015.03834,NorthBrazil,SouthBrazil
+174,2017.03834,NorthBrazil,SoutheastBrazil
+175,2017.03833,NorthBrazil,SouthAmerica
+176,2006.03833,NorthBrazil,SouthAmerica
+177,2016.03823,NorthBrazil,SoutheastBrazil
+178,2015.03834,SoutheastBrazil,NortheastBrazil
+179,1989.13293,SoutheastBrazil,MidwestBrazil
+180,2013.83822,MidwestBrazil,NorthBrazil
+181,1998.3014500000002,SoutheastBrazil,NortheastBrazil
+182,2015.03834,SoutheastBrazil,NorthBrazil
+183,1983.3874500000002,SoutheastBrazil,Bahia
+184,2016.03823,Bahia,SoutheastBrazil
+185,1993.4979400000002,SoutheastBrazil,NortheastBrazil
+186,2006.5876500000002,NortheastBrazil,SoutheastBrazil
+187,2017.03835,SoutheastBrazil,NortheastBrazil
+188,2016.03823,SoutheastBrazil,SouthBrazil
+189,2017.03833,SoutheastBrazil,Western Europe
+190,2014.03833,SoutheastBrazil,Western Europe
+191,2016.0382200000001,SoutheastBrazil,SouthBrazil
+192,2015.03834,SoutheastBrazil,Bahia
+193,2006.03833,SoutheastBrazil,Western Europe
+194,1987.42666,SoutheastBrazil,Bahia
+195,2015.68766,SoutheastBrazil,HVBahia
+196,2013.03834,SoutheastBrazil,Western Europe
+197,2017.03834,SoutheastBrazil,NorthBrazil
+198,2016.03823,SoutheastBrazil,MidwestBrazil
+199,1988.9422000000002,SoutheastBrazil,NorthBrazil
+200,2015.03834,NorthBrazil,SoutheastBrazil
+201,2016.03823,SoutheastBrazil,Bahia
+202,2017.03834,SoutheastBrazil,NortheastBrazil
+203,1987.57553,SoutheastBrazil,MidwestBrazil
+204,2017.03834,SoutheastBrazil,NortheastBrazil
+205,2016.03824,SoutheastBrazil,SouthBrazil
+206,2006.03834,SoutheastBrazil,SouthBrazil
+207,1995.2538100000002,SoutheastBrazil,MidwestBrazil
+208,2015.03835,SoutheastBrazil,NorthBrazil
+209,1993.3585,SoutheastBrazil,Western Europe
+210,2015.03834,Western Europe,SoutheastBrazil
+211,2016.03824,Western Europe,MidwestBrazil
+212,1991.6237800000001,SoutheastBrazil,Western Europe
+213,2016.03823,Western Europe,SoutheastBrazil
+214,2017.03834,Western Europe,SoutheastBrazil
+215,2002.31842,Western Europe,SoutheastBrazil
+216,2008.03823,SoutheastBrazil,MidwestBrazil
+217,2017.03835,SoutheastBrazil,MidwestBrazil
+218,2017.03835,SoutheastBrazil,SouthBrazil
+219,2014.4297100000001,SoutheastBrazil,MidwestBrazil
+220,1972.0604500000002,SoutheastBrazil,SouthBrazil
+221,1980.9777000000001,SouthBrazil,SoutheastBrazil
+222,2017.03836,SoutheastBrazil,NortheastBrazil
+223,2016.03824,SouthBrazil,SoutheastBrazil
+224,2017.03836,SouthBrazil,NortheastBrazil
+225,2017.03835,SouthBrazil,SoutheastBrazil
+226,1991.6449400000001,SoutheastBrazil,SouthBrazil
+227,2016.03824,SouthBrazil,SoutheastBrazil
+228,2015.03834,SoutheastBrazil,NortheastBrazil
+229,2017.03834,SoutheastBrazil,MidwestBrazil
+230,2005.03834,SoutheastBrazil,Western Europe
+231,2017.03834,SoutheastBrazil,NorthBrazil
+232,2015.03834,SoutheastBrazil,MidwestBrazil
+233,1972.768,SoutheastBrazil,NortheastBrazil
+234,2015.03835,NortheastBrazil,SoutheastBrazil
+235,2016.03824,NortheastBrazil,SoutheastBrazil
+236,2017.03835,NortheastBrazil,SoutheastBrazil
+237,1996.9832600000002,NortheastBrazil,SoutheastBrazil
+238,1972.1396900000002,SoutheastBrazil,MidwestBrazil
+239,2016.03824,MidwestBrazil,SoutheastBrazil
+240,2016.03824,MidwestBrazil,SouthAmerica
+241,2014.03835,MidwestBrazil,NorthBrazil
+242,2016.03824,MidwestBrazil,SoutheastBrazil
+243,2015.03835,MidwestBrazil,SoutheastBrazil
+244,2005.03835,MidwestBrazil,Western Europe
+245,2006.03835,MidwestBrazil,Western Europe
+246,2005.03834,MidwestBrazil,Western Europe
+247,2007.99043,MidwestBrazil,Western Europe
+248,2017.03835,MidwestBrazil,Western Europe
+249,2012.03824,MidwestBrazil,NortheastBrazil
+250,2003.2116500000002,MidwestBrazil,Western Europe
+251,2014.03836,Western Europe,MidwestBrazil
+252,2014.84931,Western Europe,HVBahia
+253,2015.03835,Western Europe,SoutheastBrazil
+254,2016.03824,Western Europe,MidwestBrazil
+255,2005.46659,MidwestBrazil,Western Europe
+256,2015.03835,SoutheastBrazil,SouthAmerica
+257,2017.03834,SoutheastBrazil,MidwestBrazil
+258,1989.56753,SoutheastBrazil,SouthBrazil
+259,1995.00338,SoutheastBrazil,Africa
+260,1981.2066000000002,SoutheastBrazil,NortheastBrazil
+261,2014.03834,NortheastBrazil,NorthBrazil
+262,2006.03834,NortheastBrazil,SoutheastBrazil
+263,2016.03824,NortheastBrazil,SoutheastBrazil
+264,2011.03835,SoutheastBrazil,Africa
+265,2011.03835,SoutheastBrazil,MidwestBrazil
+266,2016.03824,SoutheastBrazil,NortheastBrazil
+267,2017.03835,SoutheastBrazil,NortheastBrazil
+268,2015.03835,SoutheastBrazil,MidwestBrazil
+269,1987.55237,SoutheastBrazil,NorthBrazil
+270,2017.03836,SoutheastBrazil,NortheastBrazil
+271,1973.40795,SoutheastBrazil,NortheastBrazil
+272,2005.2803000000001,NortheastBrazil,Western Europe
+273,2013.03835,NortheastBrazil,NorthBrazil
+274,1998.03835,NortheastBrazil,SoutheastBrazil
+275,2010.78926,NortheastBrazil,SoutheastBrazil
+276,2016.03824,NortheastBrazil,SoutheastBrazil
+277,2015.03834,SoutheastBrazil,NortheastBrazil
+278,2001.2548800000002,SoutheastBrazil,MidwestBrazil
+279,2009.1003600000001,MidwestBrazil,SoutheastBrazil
+280,2015.03834,SoutheastBrazil,NorthBrazil
+281,2007.2212100000002,SoutheastBrazil,NorthAmerica
+282,1996.83069,SoutheastBrazil,Western Europe
+283,2015.03835,SoutheastBrazil,MidwestBrazil
+284,2016.03823,SoutheastBrazil,MidwestBrazil
+285,2001.03834,SoutheastBrazil,SouthBrazil
+286,2015.03833,SoutheastBrazil,NortheastBrazil
+287,2016.0382200000001,SoutheastBrazil,NorthBrazil
+288,1993.49059,SoutheastBrazil,MidwestBrazil
+289,2015.03833,SoutheastBrazil,NortheastBrazil
+290,2012.0382200000001,SoutheastBrazil,SouthBrazil
+291,2017.03833,SoutheastBrazil,NorthBrazil
+292,1966.54409,SoutheastBrazil,North America
+293,1998.03835,North America,SouthBrazil
+294,2017.03834,North America,SoutheastBrazil
+295,1987.5259500000002,North America,MidwestBrazil
+296,2015.03834,MidwestBrazil,SoutheastBrazil
+297,1981.3224200000002,North America,Bahia
+298,2004.75351,Bahia,NortheastBrazil
+299,2002.55842,North America,Bahia
+300,1994.05399,North America,Asia
+301,2016.03823,Asia,SoutheastBrazil
+302,2000.27204,North America,NorthBrazil
+303,1971.05386,North America,NorthBrazil
+304,2006.6015300000001,NorthBrazil,SouthAmerica
+305,2014.03835,NorthBrazil,Western Europe
+306,2017.03834,NorthBrazil,SouthAmerica
+307,2001.53356,NorthBrazil,SoutheastBrazil
+308,2002.51963,NorthBrazil,SouthAmerica
+309,2015.03834,SouthAmerica,MidwestBrazil
+310,2016.03824,NorthBrazil,NortheastBrazil
+311,2007.9150200000001,NorthBrazil,SoutheastBrazil
+312,2015.03834,NorthBrazil,SoutheastBrazil
+313,1979.64451,NorthBrazil,Bahia
+314,2014.8602600000002,Bahia,HVBahia
+315,1998.03834,Bahia,SoutheastBrazil
+316,1998.03835,NorthBrazil,Western Europe
+317,2015.03836,NorthBrazil,SoutheastBrazil
+318,2016.03824,NorthBrazil,NortheastBrazil
+319,2003.03834,NorthBrazil,Asia
+320,2016.03823,NorthBrazil,MidwestBrazil
+321,2016.03824,NorthBrazil,SouthBrazil
+322,2002.53738,NorthBrazil,SoutheastBrazil
+323,1977.6408900000001,NorthBrazil,Bahia
+324,2015.03834,Bahia,NortheastBrazil
+325,1987.4835,Bahia,NortheastBrazil
+326,2006.03834,NortheastBrazil,SoutheastBrazil
+327,2005.43353,NortheastBrazil,SoutheastBrazil
+328,2006.03835,NortheastBrazil,SoutheastBrazil
+329,2017.03835,NortheastBrazil,SoutheastBrazil
+330,2002.08292,NortheastBrazil,NorthBrazil
+331,2015.03836,NorthBrazil,SoutheastBrazil
+332,1984.15199,Bahia,SoutheastBrazil
+333,2010.03834,SoutheastBrazil,MidwestBrazil
+334,2011.10273,Bahia,HVBahia
+335,1981.05222,Bahia,SoutheastBrazil
+336,2016.03824,SoutheastBrazil,NortheastBrazil
+337,2007.03834,Bahia,Western Europe
+338,1985.94424,Bahia,SoutheastBrazil
+339,2017.03833,Bahia,SoutheastBrazil
+340,2011.86626,Bahia,SouthBrazil
+341,2015.27121,Bahia,HVBahia
+342,2015.7123100000001,Bahia,HVBahia
+343,2014.93971,Bahia,HVBahia
+344,1992.56932,Bahia,HVBahia
+345,2017.03833,HVBahia,SoutheastBrazil
+346,2016.03823,HVBahia,Bahia
+347,1971.2465900000002,North America,SoutheastBrazil
+348,1995.3903500000001,SoutheastBrazil,Western Europe
+349,2016.03824,SoutheastBrazil,SouthBrazil
+350,2004.03825,SoutheastBrazil,Western Europe
+351,2017.03835,SoutheastBrazil,NorthBrazil
+352,1989.2422900000001,SoutheastBrazil,SouthBrazil
+353,2005.03833,SoutheastBrazil,SouthBrazil
+354,1995.8795,SoutheastBrazil,NortheastBrazil
+355,2004.77483,SoutheastBrazil,NortheastBrazil
+356,2011.03835,SoutheastBrazil,NorthAmerica
+357,2016.03823,SoutheastBrazil,Bahia
+358,2011.03833,SoutheastBrazil,MidwestBrazil
+359,1970.7948000000001,North America,Western Europe
+360,2006.03836,Western Europe,SoutheastBrazil
+361,1998.03836,Western Europe,SoutheastBrazil
+362,2016.03825,Western Europe,SouthBrazil
+363,2014.03836,Western Europe,SoutheastBrazil
+364,1974.83921,North America,SoutheastBrazil
+365,2012.03824,SoutheastBrazil,Bahia
+366,2017.03835,SoutheastBrazil,SouthBrazil
+367,2017.03835,SoutheastBrazil,MidwestBrazil
+368,2016.03824,SoutheastBrazil,Western Europe
+369,2003.03836,SoutheastBrazil,SouthAmerica
+370,2017.03835,SoutheastBrazil,NortheastBrazil
+371,2015.0383700000002,SoutheastBrazil,NorthBrazil
+372,2013.03835,SoutheastBrazil,Western Europe
+373,1990.3652000000002,North America,SouthBrazil
+374,2012.03824,SouthBrazil,SoutheastBrazil
+375,1998.03835,North America,SouthBrazil
+376,2004.03824,North America,Western Europe
+377,1978.98461,North America,SouthAmerica
+378,2017.03835,SouthAmerica,SoutheastBrazil
+379,2017.03835,SouthAmerica,NortheastBrazil
+380,2014.03835,SouthAmerica,SoutheastBrazil
+381,2017.03835,SouthAmerica,SoutheastBrazil
+382,1996.37658,SouthAmerica,MidwestBrazil
+383,2010.03835,SouthAmerica,Western Europe
+384,2007.03834,SouthAmerica,Western Europe
+385,2008.03824,SouthAmerica,Western Europe
+386,2012.03824,SouthAmerica,SoutheastBrazil
+387,1981.1455700000001,North America,SoutheastBrazil
+388,2005.03834,North America,SouthAmerica
+389,1981.18684,North America,MidwestBrazil
+390,1997.03834,MidwestBrazil,Western Europe
+391,2016.03823,MidwestBrazil,NortheastBrazil
+392,1999.98861,MidwestBrazil,NorthBrazil
+393,2017.03833,NorthBrazil,SouthAmerica
+394,2016.0382200000001,NorthBrazil,SoutheastBrazil
+395,1992.3812400000002,North America,Western Europe
+396,2016.03824,Western Europe,SouthAmerica
+397,1972.91145,North America,SoutheastBrazil
+398,2017.03835,SoutheastBrazil,NortheastBrazil
+399,2007.03835,SoutheastBrazil,Africa
+400,2017.03835,SoutheastBrazil,NortheastBrazil
+401,2010.03835,SoutheastBrazil,NorthAmerica
+402,1978.53067,North America,HVBahia
+403,2015.03835,HVBahia,Bahia
+404,1980.9343700000002,HVBahia,Western Europe
+405,2004.03824,Western Europe,EasternEurope
+406,2017.03835,Western Europe,SoutheastBrazil
+407,1975.22308,North America,HVBahia
+408,2014.03835,HVBahia,SoutheastBrazil
+409,1984.0831,HVBahia,Bahia
+410,2017.03835,Bahia,SouthBrazil
+411,2016.03825,Bahia,SoutheastBrazil
+412,2014.6520400000002,Bahia,HVBahia
+413,2007.03835,Bahia,MidwestBrazil
+414,2014.03835,Bahia,SoutheastBrazil
+415,2001.5985400000002,Bahia,HVBahia
+416,2016.03823,HVBahia,Bahia
+417,2001.90292,Bahia,HVBahia
+418,2017.03834,HVBahia,Bahia
+419,2013.03834,HVBahia,Western Europe
+420,2017.03834,North America,SoutheastBrazil
+421,1989.8388400000001,North America,SouthBrazil
+422,1976.55503,North America,SoutheastBrazil
+423,2000.03823,SoutheastBrazil,Western Europe
+424,2015.03835,North America,NortheastBrazil
+425,2009.03835,North America,Africa
+426,2001.03835,North America,SouthBrazil
+427,2015.03835,North America,SoutheastBrazil
+428,2014.03835,North America,Asia
+429,2007.03835,North America,Western Europe
+430,1975.11573,North America,NortheastBrazil
+431,1993.03835,North America,Western Europe
+432,2016.03824,North America,Africa
+433,2017.03834,North America,SoutheastBrazil
+434,1978.0722400000002,North America,SoutheastBrazil
+435,2012.2969600000001,SoutheastBrazil,MidwestBrazil
+436,2016.03823,MidwestBrazil,NorthBrazil
+437,1977.20271,North America,Western Europe
+438,1993.03834,Western Europe,EasternEurope
+439,2016.03823,Western Europe,SoutheastBrazil
+440,1977.1596100000002,North America,SoutheastBrazil
+441,2015.03833,SoutheastBrazil,Bahia
+442,1990.4207000000001,SoutheastBrazil,Western Europe
+443,2015.03835,Western Europe,SoutheastBrazil
+444,1996.11976,SoutheastBrazil,SouthBrazil
+445,1990.46306,SoutheastBrazil,MidwestBrazil
+446,1968.47351,SoutheastBrazil,SouthBrazil
+447,2017.03835,SouthBrazil,SoutheastBrazil
+448,2008.03824,SouthBrazil,MidwestBrazil
+449,2017.03835,SouthBrazil,SoutheastBrazil
+450,2017.03836,SouthBrazil,SoutheastBrazil
+451,2016.03825,SouthBrazil,SoutheastBrazil
+452,1983.66945,SouthBrazil,SoutheastBrazil
+453,2019.03835,SoutheastBrazil,Western Europe
+454,2011.03834,SoutheastBrazil,NorthAmerica
+455,1974.59111,SoutheastBrazil,SouthBrazil
+456,2000.03825,SouthBrazil,SouthAmerica
+457,1998.03836,SouthBrazil,SoutheastBrazil
+458,2016.03824,SoutheastBrazil,MidwestBrazil
+459,2000.43442,SoutheastBrazil,SouthBrazil
+460,2009.03835,SoutheastBrazil,MidwestBrazil
+461,1985.47775,SoutheastBrazil,NorthBrazil
+462,2014.03835,NorthBrazil,SouthAmerica
+463,2017.03833,SoutheastBrazil,NortheastBrazil
+464,2017.03833,SoutheastBrazil,Bahia
+465,2015.03833,SoutheastBrazil,MidwestBrazil
+466,2016.03824,SoutheastBrazil,MidwestBrazil
+467,1994.18063,SoutheastBrazil,SouthAmerica
+468,2015.03835,SoutheastBrazil,MidwestBrazil
+469,2015.03835,SoutheastBrazil,NortheastBrazil
+470,2010.03835,SoutheastBrazil,Western Europe
+471,2014.03835,SoutheastBrazil,NortheastBrazil
+472,1975.22502,SoutheastBrazil,MidwestBrazil
+473,2014.03834,MidwestBrazil,Western Europe
+474,2009.03834,MidwestBrazil,Western Europe
+475,2014.03834,MidwestBrazil,NorthBrazil
+476,1977.73061,SoutheastBrazil,NorthBrazil
+477,2015.03834,NorthBrazil,SoutheastBrazil
+478,2016.03824,NorthBrazil,SoutheastBrazil
+479,2015.03835,NorthBrazil,SoutheastBrazil
+480,1987.84059,NorthBrazil,MidwestBrazil
+481,2017.03833,SoutheastBrazil,NorthBrazil
+482,1989.74971,SoutheastBrazil,MidwestBrazil
+483,2004.9652700000001,SoutheastBrazil,NortheastBrazil
+484,2016.03823,NortheastBrazil,SouthBrazil
+485,2017.03834,SoutheastBrazil,NortheastBrazil
+486,1983.9884100000002,SoutheastBrazil,SouthBrazil
+487,2001.03834,SoutheastBrazil,Africa
+488,2017.03834,SoutheastBrazil,SouthBrazil
+489,1990.0080600000001,SoutheastBrazil,Western Europe
+490,1975.0789100000002,SoutheastBrazil,SouthBrazil
+491,1980.7227200000002,SoutheastBrazil,NortheastBrazil
+492,1993.23262,SoutheastBrazil,NortheastBrazil
+493,2015.03833,SoutheastBrazil,Bahia
+494,2015.03833,SoutheastBrazil,SouthBrazil
+495,2008.03823,SoutheastBrazil,MidwestBrazil
+496,2014.03834,SoutheastBrazil,NorthBrazil
+497,1997.03834,SoutheastBrazil,Western Europe
+498,2016.03824,SoutheastBrazil,Bahia
+499,2007.03834,SoutheastBrazil,SouthBrazil
+500,2016.03823,SoutheastBrazil,NorthBrazil
+501,2015.03834,SoutheastBrazil,SouthBrazil
+502,2013.03833,SoutheastBrazil,Western Europe
+503,1991.78905,SoutheastBrazil,Western Europe
+504,2015.03834,Western Europe,SoutheastBrazil
+505,2011.03832,SoutheastBrazil,Asia
+506,2017.03834,SoutheastBrazil,NorthBrazil
+507,2017.03835,SoutheastBrazil,NorthBrazil
+508,2016.03824,SoutheastBrazil,NortheastBrazil
+509,2002.77747,SoutheastBrazil,SouthBrazil
+510,2015.03835,SoutheastBrazil,MidwestBrazil
+511,2015.03835,SoutheastBrazil,NortheastBrazil
+512,2016.03824,SoutheastBrazil,NortheastBrazil
+513,2016.03823,SoutheastBrazil,NortheastBrazil
+514,2015.03835,SoutheastBrazil,NortheastBrazil
+515,2016.03824,SoutheastBrazil,SouthBrazil
+516,2016.03824,SoutheastBrazil,Bahia
+517,2017.03835,SoutheastBrazil,Bahia
+518,2017.03834,SoutheastBrazil,NortheastBrazil
+519,2016.03824,SoutheastBrazil,SouthBrazil
+520,2016.03823,SoutheastBrazil,NortheastBrazil
+521,1981.7129300000001,SoutheastBrazil,SouthBrazil
+522,2005.03835,SoutheastBrazil,SouthBrazil
+523,2017.03835,SoutheastBrazil,NortheastBrazil
+524,2016.03824,SoutheastBrazil,MidwestBrazil
+525,2017.03835,SoutheastBrazil,MidwestBrazil
+526,1982.3827800000001,SoutheastBrazil,MidwestBrazil
+527,2015.03834,MidwestBrazil,SoutheastBrazil
+528,2013.03835,SoutheastBrazil,Western Europe
+529,2016.03825,SoutheastBrazil,NortheastBrazil
+530,2017.03835,SoutheastBrazil,NortheastBrazil
+531,1989.7452700000001,SoutheastBrazil,NortheastBrazil
+532,2015.03835,SoutheastBrazil,Bahia
+533,2004.03824,SoutheastBrazil,Western Europe
+534,2016.03823,SoutheastBrazil,SouthBrazil
+535,2012.0382200000001,SoutheastBrazil,Bahia
+536,2009.74973,SoutheastBrazil,SouthBrazil
+537,2014.03834,SoutheastBrazil,Bahia
+538,2016.03824,SoutheastBrazil,Bahia
+539,2016.03824,SoutheastBrazil,Bahia
+540,2008.03824,SoutheastBrazil,NorthBrazil
+541,2007.03834,SoutheastBrazil,Bahia
+542,1983.6873300000002,SoutheastBrazil,NortheastBrazil
+543,1990.9150000000002,NortheastBrazil,SoutheastBrazil
+544,2016.03825,SoutheastBrazil,NorthBrazil
+545,2016.03825,SoutheastBrazil,Bahia
+546,2017.03836,SoutheastBrazil,MidwestBrazil
+547,2005.03834,SoutheastBrazil,SouthAmerica
+548,1984.94757,SoutheastBrazil,SouthAmerica
+549,2017.03835,SoutheastBrazil,NortheastBrazil
+550,2009.03835,SoutheastBrazil,NorthAmerica
+551,2003.03835,SoutheastBrazil,MidwestBrazil
+552,1991.29904,SoutheastBrazil,Bahia
+553,2017.03835,SoutheastBrazil,SouthBrazil
+554,2015.03834,SoutheastBrazil,Asia
+555,1988.03321,SoutheastBrazil,MidwestBrazil
+556,2016.03824,SoutheastBrazil,NortheastBrazil
+557,2011.03835,SoutheastBrazil,MidwestBrazil
+558,2016.03824,SoutheastBrazil,NortheastBrazil
+559,1992.67611,SoutheastBrazil,MidwestBrazil
+560,2017.03835,MidwestBrazil,SoutheastBrazil
+561,2014.03834,MidwestBrazil,SoutheastBrazil
+562,2009.03833,SoutheastBrazil,SouthAmerica
+563,2016.03824,SoutheastBrazil,SouthBrazil
+564,2015.03835,SoutheastBrazil,SouthBrazil
+565,2017.03835,SoutheastBrazil,NortheastBrazil
+566,2016.03824,SoutheastBrazil,SouthBrazil
+567,2009.03835,SoutheastBrazil,MidwestBrazil
+568,2015.03835,SoutheastBrazil,Bahia
+569,2015.03835,SoutheastBrazil,NortheastBrazil
+570,1979.84977,SoutheastBrazil,NortheastBrazil
+571,2017.03836,SoutheastBrazil,MidwestBrazil
+572,2012.6054100000001,SoutheastBrazil,Western Europe
+573,1979.5850300000002,SoutheastBrazil,NorthBrazil
+574,2015.03835,NorthBrazil,NortheastBrazil
+575,2017.03835,NorthBrazil,NortheastBrazil
+576,2016.03824,NorthBrazil,MidwestBrazil
+577,2017.03835,NorthBrazil,SouthBrazil
+578,2005.8840300000002,NorthBrazil,SouthBrazil
+579,2012.03825,NorthBrazil,SouthAmerica
+580,1997.94919,NorthBrazil,SouthAmerica
+581,2014.03836,SouthAmerica,NorthBrazil
+582,2014.03835,SoutheastBrazil,NortheastBrazil
+583,2017.03835,SoutheastBrazil,NortheastBrazil
+584,2015.03834,SoutheastBrazil,SouthBrazil
+585,2016.03824,SoutheastBrazil,NorthBrazil
+586,2003.03835,SoutheastBrazil,Western Europe
+587,2013.03835,SoutheastBrazil,SouthBrazil
+588,2017.03835,SoutheastBrazil,NorthBrazil
+589,1978.1423300000001,SoutheastBrazil,NortheastBrazil
+590,2006.03834,SoutheastBrazil,SouthBrazil
+591,2016.03823,SoutheastBrazil,SouthBrazil
+592,2017.03834,SoutheastBrazil,NortheastBrazil
+593,1984.5407500000001,SoutheastBrazil,SouthBrazil
+594,1997.43521,SoutheastBrazil,MidwestBrazil
+595,2017.03834,SoutheastBrazil,MidwestBrazil
+596,2016.03824,SoutheastBrazil,NortheastBrazil
+597,2017.03835,SoutheastBrazil,NortheastBrazil
+598,2016.03824,SoutheastBrazil,NorthBrazil
+599,1970.44182,SoutheastBrazil,NortheastBrazil
+600,2017.03836,NortheastBrazil,SoutheastBrazil
+601,1993.9904700000002,NortheastBrazil,SoutheastBrazil
+602,2011.31734,SoutheastBrazil,NorthBrazil
+603,2014.03835,NortheastBrazil,SoutheastBrazil
+604,2016.03825,NortheastBrazil,NorthBrazil
+605,2017.03835,NortheastBrazil,SouthAmerica
+606,2014.03836,NortheastBrazil,SoutheastBrazil
+607,2017.03836,NortheastBrazil,MidwestBrazil
+608,2016.03825,NortheastBrazil,SoutheastBrazil
+609,2014.03836,NortheastBrazil,SoutheastBrazil
+610,2017.03834,SoutheastBrazil,SouthBrazil
+611,2017.03835,SoutheastBrazil,SouthBrazil
+612,2004.03825,SoutheastBrazil,SouthBrazil
+613,1984.9516700000001,SoutheastBrazil,NortheastBrazil
+614,2015.03835,SoutheastBrazil,MidwestBrazil
+615,2012.5000100000002,SoutheastBrazil,SouthAmerica
+616,2017.03835,SoutheastBrazil,NortheastBrazil
+617,2017.03836,SoutheastBrazil,SouthBrazil
+618,2016.03824,SoutheastBrazil,MidwestBrazil
+619,1999.70873,SoutheastBrazil,NorthBrazil
+620,2017.03835,SoutheastBrazil,MidwestBrazil
+621,2005.03835,SoutheastBrazil,SouthBrazil
+622,2017.03835,SoutheastBrazil,SouthBrazil
+623,2010.3288900000002,SoutheastBrazil,NorthBrazil
+624,2016.03824,NorthBrazil,MidwestBrazil
+625,1983.8486,SoutheastBrazil,MidwestBrazil
+626,2016.03824,MidwestBrazil,NorthBrazil
+627,1990.53266,MidwestBrazil,SoutheastBrazil
+628,2013.0108300000002,MidwestBrazil,HVBahia
+629,2017.03835,SoutheastBrazil,MidwestBrazil
+630,2007.2999100000002,SoutheastBrazil,MidwestBrazil
+631,2016.03823,SoutheastBrazil,SouthBrazil
+632,2017.03835,SoutheastBrazil,NortheastBrazil
+633,1990.6459000000002,SoutheastBrazil,SouthBrazil
+634,2014.03835,SouthBrazil,SoutheastBrazil
+635,2015.03835,SoutheastBrazil,MidwestBrazil
+636,2017.03835,SoutheastBrazil,NortheastBrazil
+637,1964.0784500000002,SoutheastBrazil,SouthBrazil
+638,2012.03824,SouthBrazil,CentralAmerica
+639,2017.03835,SouthBrazil,Western Europe
+640,2017.03835,SouthBrazil,SoutheastBrazil
+641,1997.03835,SouthBrazil,Western Europe
+642,1999.03834,SouthBrazil,SoutheastBrazil
+643,1982.92948,SouthBrazil,NorthBrazil
+644,2006.03835,NorthBrazil,SouthBrazil
+645,2017.03835,NorthBrazil,SouthBrazil
+646,2018.03835,NorthBrazil,MidwestBrazil
+647,2017.03835,NorthBrazil,SoutheastBrazil
+648,2015.03834,SouthBrazil,SoutheastBrazil
+649,2007.03835,SouthBrazil,SoutheastBrazil
+650,2016.03823,SoutheastBrazil,NortheastBrazil
+651,1998.03834,SoutheastBrazil,Western Europe
+652,2008.0382200000001,SoutheastBrazil,NorthBrazil
+653,2016.0382200000001,SoutheastBrazil,NortheastBrazil
+654,2013.03834,SoutheastBrazil,MidwestBrazil
+655,2017.03835,SoutheastBrazil,MidwestBrazil
+656,2017.03835,SoutheastBrazil,MidwestBrazil
+657,2016.03825,SoutheastBrazil,MidwestBrazil
+658,2005.03836,SoutheastBrazil,SouthBrazil
+659,1984.14308,SoutheastBrazil,NortheastBrazil
+660,2016.03824,NortheastBrazil,SoutheastBrazil
+661,2015.03834,SoutheastBrazil,MidwestBrazil
+662,2010.9162700000002,SoutheastBrazil,NorthBrazil
+663,2016.03823,SoutheastBrazil,Bahia
+664,2004.03824,SoutheastBrazil,Western Europe
+665,2016.03825,SoutheastBrazil,SouthAmerica
+666,2011.03836,SoutheastBrazil,Western Europe
+667,2018.03835,SoutheastBrazil,NorthBrazil
+668,2017.03836,SoutheastBrazil,Bahia
+669,2015.03836,SoutheastBrazil,MidwestBrazil
+670,2016.03825,SoutheastBrazil,Bahia
+671,2017.0383700000002,SoutheastBrazil,MidwestBrazil
+672,1998.48379,SoutheastBrazil,NorthBrazil
+673,2015.0383700000002,SoutheastBrazil,MidwestBrazil
+674,2005.03836,SoutheastBrazil,Western Europe
+675,2010.0383700000002,SoutheastBrazil,NorthAmerica
+676,2018.0383700000002,SoutheastBrazil,NorthBrazil
+677,1991.0284100000001,SoutheastBrazil,SouthBrazil
+678,2016.03824,SoutheastBrazil,NortheastBrazil
+679,2012.03826,SoutheastBrazil,SouthBrazil
+680,1987.31139,SoutheastBrazil,SouthAmerica
+681,2006.03835,SoutheastBrazil,Bahia
+682,2016.03824,SoutheastBrazil,NortheastBrazil
+683,2011.03835,SoutheastBrazil,MidwestBrazil
+684,2016.03825,SoutheastBrazil,NortheastBrazil
+685,2017.03835,SoutheastBrazil,SouthBrazil
+686,2015.03835,SoutheastBrazil,MidwestBrazil
+687,2016.03824,SoutheastBrazil,NortheastBrazil
+688,2017.03835,SoutheastBrazil,NortheastBrazil
+689,2000.03824,SoutheastBrazil,Western Europe
+690,1978.95612,SoutheastBrazil,NortheastBrazil
+691,2014.03834,SoutheastBrazil,MidwestBrazil
+692,2017.03834,SoutheastBrazil,SouthBrazil
+693,2017.03834,SoutheastBrazil,MidwestBrazil
+694,2016.03823,SoutheastBrazil,NortheastBrazil
+695,2017.03834,SoutheastBrazil,NortheastBrazil
+696,2003.03834,SoutheastBrazil,SouthAmerica
+697,2004.03824,SoutheastBrazil,Western Europe
+698,2016.03824,SoutheastBrazil,NorthBrazil
+699,2005.03836,SoutheastBrazil,SouthAmerica
+700,2015.03836,SoutheastBrazil,SouthBrazil
+701,2005.03835,SoutheastBrazil,SouthBrazil
+702,2004.03825,SoutheastBrazil,SouthBrazil
+703,2014.03834,SoutheastBrazil,NortheastBrazil
+704,2014.03834,NortheastBrazil,Bahia
+705,2016.03823,SoutheastBrazil,NortheastBrazil
+706,2005.03834,SoutheastBrazil,SouthBrazil
+707,2016.03824,SoutheastBrazil,NortheastBrazil
+708,2012.03824,SoutheastBrazil,Africa
+709,2003.03835,SoutheastBrazil,Western Europe
+710,2003.03834,SoutheastBrazil,Western Europe
+711,2016.03823,SoutheastBrazil,NorthBrazil
+712,2014.03833,SoutheastBrazil,Western Europe
+713,2017.03834,SoutheastBrazil,NortheastBrazil
+714,2015.03834,SoutheastBrazil,NortheastBrazil
+715,2016.03823,SoutheastBrazil,SouthBrazil
+716,2005.03835,SoutheastBrazil,SouthAmerica
+717,2017.03835,SoutheastBrazil,NortheastBrazil
+718,2016.03824,SoutheastBrazil,SouthBrazil
+719,2015.03835,SoutheastBrazil,Bahia
+720,2016.03824,SoutheastBrazil,NortheastBrazil
+721,2017.03835,SoutheastBrazil,NortheastBrazil
+722,2003.03834,SoutheastBrazil,Western Europe
+723,2016.03823,SoutheastBrazil,SouthBrazil
+724,2005.03834,SoutheastBrazil,SouthBrazil
+725,2015.03834,SoutheastBrazil,NortheastBrazil
+726,2016.03824,SoutheastBrazil,NortheastBrazil
+727,2014.03835,SoutheastBrazil,NorthBrazil
+728,2017.03834,SoutheastBrazil,NorthBrazil
+729,2016.03823,SoutheastBrazil,Bahia
+730,2003.03835,SoutheastBrazil,Western Europe
+731,2003.03833,SoutheastBrazil,Western Europe
+732,1975.9623700000002,SoutheastBrazil,Western Europe
+733,2006.03835,SoutheastBrazil,SouthBrazil
+734,2003.03834,SoutheastBrazil,Western Europe
+735,2003.03835,SoutheastBrazil,Western Europe
+736,2006.03835,SoutheastBrazil,Western Europe
+737,2017.03835,SoutheastBrazil,NortheastBrazil
+738,2015.03834,SoutheastBrazil,NortheastBrazil
+739,2015.03835,SoutheastBrazil,NorthBrazil
+740,2007.03835,SoutheastBrazil,SouthAmerica
+741,2015.03835,SoutheastBrazil,NortheastBrazil
+742,2017.03835,SoutheastBrazil,SouthBrazil
+743,2017.03834,SoutheastBrazil,NorthBrazil
+744,2015.03834,SoutheastBrazil,SouthBrazil
+745,2015.03835,SoutheastBrazil,NortheastBrazil
+746,2003.03835,SoutheastBrazil,Western Europe
+747,2014.03835,SoutheastBrazil,NortheastBrazil
+748,2017.03835,SoutheastBrazil,NortheastBrazil
+749,2002.2278700000002,SoutheastBrazil,EasternEurope
+750,2016.03824,SoutheastBrazil,NorthBrazil
+751,2016.03825,SoutheastBrazil,Bahia
+752,2017.03836,SoutheastBrazil,SouthBrazil
+753,2015.03836,SoutheastBrazil,SouthBrazil
+754,1984.50872,SoutheastBrazil,SouthBrazil
+755,1998.3322400000002,SouthBrazil,Asia
+756,1998.10948,SoutheastBrazil,NortheastBrazil
+757,2014.03834,NortheastBrazil,SoutheastBrazil
+758,2014.03835,SoutheastBrazil,MidwestBrazil
+759,1981.10408,SoutheastBrazil,SouthBrazil
+760,1993.7222700000002,SoutheastBrazil,NortheastBrazil
+761,2014.03834,SoutheastBrazil,NortheastBrazil
+762,2017.03835,SoutheastBrazil,MidwestBrazil
+763,2013.03835,SoutheastBrazil,Western Europe
+764,2002.03836,SoutheastBrazil,SouthBrazil
+765,2016.03825,SoutheastBrazil,NorthBrazil
+766,2006.03836,SoutheastBrazil,Western Europe
+767,2001.03836,SoutheastBrazil,SouthAmerica
+768,1980.3950200000002,SoutheastBrazil,NortheastBrazil
+769,1974.2734400000002,SoutheastBrazil,MidwestBrazil
+770,2018.03835,MidwestBrazil,SouthAmerica
+771,2003.03836,SoutheastBrazil,MidwestBrazil
+772,2000.03826,SoutheastBrazil,Western Europe
+773,2017.03836,SoutheastBrazil,NorthBrazil
+774,1985.15892,SoutheastBrazil,NorthBrazil
+775,1980.9395800000002,SoutheastBrazil,NorthBrazil
+776,2002.03836,NorthBrazil,SoutheastBrazil
+777,2011.0383700000002,NorthBrazil,MidwestBrazil
+778,1989.8621,SoutheastBrazil,MidwestBrazil
+779,2016.03825,SoutheastBrazil,Bahia
+780,2016.03825,SoutheastBrazil,MidwestBrazil
+781,2016.03825,SoutheastBrazil,SouthBrazil
+782,2009.03836,SoutheastBrazil,NortheastBrazil
+783,1977.5680200000002,SoutheastBrazil,Bahia
+784,2017.03836,Bahia,NortheastBrazil
+785,2017.0383700000002,Bahia,NortheastBrazil
+786,2006.25991,SoutheastBrazil,Western Europe
+787,2005.09723,SoutheastBrazil,Western Europe
+788,2017.03835,SoutheastBrazil,MidwestBrazil
+789,2016.03824,SoutheastBrazil,SouthBrazil
+790,1988.77247,SoutheastBrazil,Bahia
+791,2014.6383600000001,Bahia,HVBahia
+792,2004.2790200000002,SoutheastBrazil,Bahia
+793,1964.2688,SoutheastBrazil,NortheastBrazil
+794,2017.03836,NortheastBrazil,SoutheastBrazil
+795,2016.03825,NortheastBrazil,Bahia
+796,2016.03824,NortheastBrazil,SoutheastBrazil
+797,2006.03835,NortheastBrazil,Bahia
+798,2007.03836,NortheastBrazil,SoutheastBrazil
+799,2014.89102,NortheastBrazil,SoutheastBrazil
+800,2015.03836,NortheastBrazil,Bahia
+801,2005.03836,NortheastBrazil,Western Europe
+802,2006.03836,NortheastBrazil,SoutheastBrazil
+803,2015.03836,NortheastBrazil,Bahia
+804,2016.03826,NortheastBrazil,SoutheastBrazil
+805,2010.03836,NortheastBrazil,Western Europe
+806,2016.03826,NortheastBrazil,Bahia
+807,2016.03825,NortheastBrazil,SoutheastBrazil
+808,2017.03836,NortheastBrazil,MidwestBrazil
+809,1969.5836800000002,NortheastBrazil,SoutheastBrazil
+810,2015.03836,SoutheastBrazil,SouthBrazil
+811,2017.03835,NortheastBrazil,Bahia
+812,2016.03824,NortheastBrazil,SoutheastBrazil
+813,2006.03835,NortheastBrazil,SoutheastBrazil
+814,2014.0383700000002,NortheastBrazil,SoutheastBrazil
+815,1971.99917,NortheastBrazil,SoutheastBrazil
+816,2017.03836,SoutheastBrazil,SouthBrazil
+817,2016.03825,NortheastBrazil,SoutheastBrazil
+818,1978.08355,NortheastBrazil,MidwestBrazil
+819,2017.03835,MidwestBrazil,SoutheastBrazil
+820,1979.65639,NortheastBrazil,SoutheastBrazil
+821,1998.1466,NortheastBrazil,SoutheastBrazil
+822,2016.03825,SoutheastBrazil,MidwestBrazil
+823,2014.03836,NortheastBrazil,SoutheastBrazil
+824,1998.0438800000002,NortheastBrazil,MidwestBrazil
+825,2015.03835,NortheastBrazil,Bahia
+826,2015.03835,NortheastBrazil,SoutheastBrazil
+827,2015.03835,NortheastBrazil,Bahia
+828,2017.03835,NortheastBrazil,MidwestBrazil
+829,2015.03836,NortheastBrazil,SoutheastBrazil
+830,2016.03825,NortheastBrazil,SoutheastBrazil
+831,2015.03835,NortheastBrazil,SouthBrazil
+832,2015.03835,NortheastBrazil,SoutheastBrazil
+833,2014.03835,NortheastBrazil,Bahia
+834,1991.2429100000002,NortheastBrazil,SoutheastBrazil
+835,2017.03835,SoutheastBrazil,NorthBrazil
+836,2017.03835,NortheastBrazil,SoutheastBrazil
+837,1985.1741100000002,NortheastBrazil,SoutheastBrazil
+838,2004.03824,SoutheastBrazil,Western Europe
+839,1967.6995000000002,NortheastBrazil,SoutheastBrazil
+840,2017.03836,SoutheastBrazil,Bahia
+841,2004.03825,SoutheastBrazil,SouthAmerica
+842,2019.03836,SoutheastBrazil,Western Europe
+843,2009.03836,NortheastBrazil,MidwestBrazil
+844,2015.03836,NortheastBrazil,SouthBrazil
+845,2017.03836,NortheastBrazil,SoutheastBrazil
+846,2017.03836,NortheastBrazil,MidwestBrazil
+847,1999.03836,NortheastBrazil,SoutheastBrazil
+848,1981.9212400000001,NortheastBrazil,Bahia
+849,2017.03836,Bahia,NortheastBrazil
+850,2017.03836,NortheastBrazil,SoutheastBrazil
+851,2016.03825,NortheastBrazil,SouthBrazil
+852,2008.03825,NortheastBrazil,NorthAmerica
+853,1986.3552800000002,NortheastBrazil,SoutheastBrazil
+854,2008.00754,NortheastBrazil,NorthAmerica
+855,2015.03836,NortheastBrazil,SoutheastBrazil
+856,2016.03825,NortheastBrazil,SoutheastBrazil
+857,2015.03836,NortheastBrazil,SoutheastBrazil
+858,2015.0383800000002,NortheastBrazil,SoutheastBrazil
+859,2016.03825,NortheastBrazil,SoutheastBrazil
+860,2016.03825,NortheastBrazil,NorthBrazil
+861,2015.03835,NortheastBrazil,SoutheastBrazil
+862,1998.9534600000002,NortheastBrazil,SoutheastBrazil
+863,2015.03836,NortheastBrazil,Bahia
+864,2016.03825,NortheastBrazil,Bahia
+865,1993.6172800000002,NortheastBrazil,SoutheastBrazil
+866,2011.2057300000001,NortheastBrazil,Bahia
+867,2015.03835,NortheastBrazil,SoutheastBrazil
+868,2017.03835,NortheastBrazil,SoutheastBrazil
+869,2015.03836,NortheastBrazil,Bahia
+870,1981.24738,NortheastBrazil,Bahia
+871,2017.03835,Bahia,SoutheastBrazil
+872,2014.03835,Bahia,NorthBrazil
+873,2016.03824,Bahia,SouthBrazil
+874,2016.03824,Bahia,NortheastBrazil
+875,2017.03836,NortheastBrazil,Bahia
+876,2016.03825,NortheastBrazil,SoutheastBrazil
+877,1998.03836,NortheastBrazil,SoutheastBrazil
+878,2017.03836,NortheastBrazil,SoutheastBrazil
+879,1982.4551700000002,NortheastBrazil,Bahia
+880,2014.9041100000002,Bahia,HVBahia
+881,2016.03825,NortheastBrazil,SoutheastBrazil
+882,1995.5857600000002,NortheastBrazil,Western Europe
+883,2002.50468,Western Europe,SouthBrazil
+884,2007.03837,Western Europe,Asia
+885,2007.9981400000001,Western Europe,NorthAmerica
+886,2017.03837,NorthAmerica,SoutheastBrazil
+887,1978.78548,NortheastBrazil,Bahia
+888,2015.03836,NortheastBrazil,SoutheastBrazil
+889,2017.03836,NortheastBrazil,MidwestBrazil
+890,2013.03836,NortheastBrazil,NorthBrazil
+891,2009.03836,NortheastBrazil,MidwestBrazil
+892,2017.03836,NortheastBrazil,SoutheastBrazil
+893,1979.6187300000001,NortheastBrazil,Western Europe
+894,2016.03825,Western Europe,MidwestBrazil
+895,2016.03825,NortheastBrazil,SoutheastBrazil
+896,1976.1972600000001,NortheastBrazil,SoutheastBrazil
+897,1969.00133,NortheastBrazil,SouthBrazil
+898,1992.59535,SouthBrazil,Western Europe
+899,2000.8333200000002,Western Europe,SoutheastBrazil
+900,2007.03836,SouthBrazil,Western Europe
+901,2017.03835,SouthBrazil,SoutheastBrazil
+902,2016.03825,SouthBrazil,SoutheastBrazil
+903,2017.03834,SouthBrazil,NortheastBrazil
+904,2016.03824,SouthBrazil,NorthBrazil
+905,2017.03835,SouthBrazil,NorthBrazil
+906,2009.03835,SouthBrazil,MidwestBrazil
+907,2015.03835,SouthBrazil,SoutheastBrazil
+908,2016.03824,SouthBrazil,SoutheastBrazil
+909,1981.6526700000002,SouthBrazil,NortheastBrazil
+910,2017.03834,NortheastBrazil,Bahia
+911,2017.03835,NortheastBrazil,SoutheastBrazil
+912,2016.03824,NortheastBrazil,Bahia
+913,2016.03824,SouthBrazil,SoutheastBrazil
+914,2017.03835,SouthBrazil,SoutheastBrazil
+915,2006.2764300000001,SouthBrazil,Western Europe
+916,1984.42305,SouthBrazil,MidwestBrazil
+917,2004.44908,MidwestBrazil,SoutheastBrazil
+918,2004.03824,SouthBrazil,SoutheastBrazil
+919,1973.8034100000002,SouthBrazil,SoutheastBrazil
+920,2015.03834,SoutheastBrazil,SouthBrazil
+921,2016.03823,SoutheastBrazil,NortheastBrazil
+922,2016.03825,SoutheastBrazil,MidwestBrazil
+923,2015.03835,SouthBrazil,SoutheastBrazil
+924,2017.03835,SouthBrazil,NorthBrazil
+925,2017.03835,SouthBrazil,NortheastBrazil
+926,2016.03824,SouthBrazil,SoutheastBrazil
+927,2009.03835,SouthBrazil,Western Europe
+928,2015.03835,SouthBrazil,NorthBrazil
+929,2017.03835,SouthBrazil,SoutheastBrazil
+930,1981.64099,SouthBrazil,NortheastBrazil
+931,2016.03824,NortheastBrazil,SoutheastBrazil
+932,2017.03834,NortheastBrazil,SoutheastBrazil
+933,2014.03836,NortheastBrazil,SoutheastBrazil
+934,2016.03826,NortheastBrazil,SoutheastBrazil
+935,1986.6890400000002,NortheastBrazil,SouthBrazil
+936,2002.0383700000002,NortheastBrazil,SoutheastBrazil
+937,1995.3870000000002,NortheastBrazil,SoutheastBrazil
+938,2016.03826,SoutheastBrazil,SouthBrazil
+939,2017.03836,NortheastBrazil,SoutheastBrazil
+940,2015.03836,NortheastBrazil,SoutheastBrazil
+941,1988.69475,NortheastBrazil,MidwestBrazil
+942,2010.03836,MidwestBrazil,Western Europe
+943,2017.03835,NortheastBrazil,SoutheastBrazil
+944,1978.9980500000001,NortheastBrazil,SoutheastBrazil
+945,1976.35843,NortheastBrazil,SoutheastBrazil
+946,2007.03835,NortheastBrazil,SoutheastBrazil
+947,2002.0927100000001,NortheastBrazil,NorthBrazil
+948,2017.03834,NortheastBrazil,SoutheastBrazil
+949,1975.3944800000002,NortheastBrazil,SoutheastBrazil
+950,2017.03835,NortheastBrazil,SoutheastBrazil
+951,2016.03824,NortheastBrazil,SoutheastBrazil
+952,2014.03834,NortheastBrazil,SoutheastBrazil
+953,2016.03824,NortheastBrazil,MidwestBrazil
+954,2003.2938100000001,NortheastBrazil,SoutheastBrazil
+955,2015.03835,SoutheastBrazil,NortheastBrazil
+956,1989.8257800000001,NortheastBrazil,SoutheastBrazil
+957,2014.03833,NortheastBrazil,SoutheastBrazil
+958,2014.4077100000002,NortheastBrazil,SoutheastBrazil
+959,1989.3643900000002,NortheastBrazil,SoutheastBrazil
+960,2012.03824,SoutheastBrazil,SouthBrazil
+961,2015.03834,NortheastBrazil,SoutheastBrazil
+962,2017.03835,NortheastBrazil,SoutheastBrazil
+963,2001.58372,NortheastBrazil,SoutheastBrazil
+964,2014.03835,NortheastBrazil,SoutheastBrazil
+965,2014.03835,NortheastBrazil,SoutheastBrazil
+966,2016.03825,NortheastBrazil,SouthBrazil
+967,2004.5568700000001,NortheastBrazil,SoutheastBrazil
